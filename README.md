@@ -11,7 +11,7 @@
 
 ## Abstract
 
-This repository accompanies the Master's thesis **"Cone Density Estimation in AOSLO Images Using Image Processing and Deep Learning"** from Universidad de La Sabana.
+This repository accompanies the manuscript **"Unified End-to-End Density-Based Counting for AOSLO Cone Photoreceptor Quantification"** submitted to MICCAI 2026.
 
 We propose and evaluate **four lightweight deep learning architectures** for automated cone density estimation in Adaptive Optics Scanning Laser Ophthalmoscopy (AOSLO) images. Our central hypothesis is that carefully designed lightweight models can improve accuracy over complex baselines while dramatically reducing computational requirements.
 
