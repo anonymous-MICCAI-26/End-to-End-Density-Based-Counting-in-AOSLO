@@ -217,52 +217,6 @@ The **Dubis dataset** contains 264 split-detector AOSLO images:
 
 See [`data/README.md`](data/README.md) for detailed documentation.
 
----
-
-## Citation
-
-If you use this code or models in your research, please cite:
-
-```bibtex
-@mastersthesis{cortez2024cone,
-  title     = {Cone Density Estimation in AOSLO Images Using
-               Image Processing and Deep Learning},
-  author    = {Cortez, Nicolay},
-  school    = {Universidad de La Sabana},
-  year      = {2024},
-  address   = {Chia, Colombia},
-  note      = {Available at: https://github.com/nicolaycz/AOSLO-Cell-Density-Estimation}
-}
-```
-
-### Related Work
-
-```bibtex
-@article{toledo2023deep,
-  title   = {Deep density estimation for cone counting and diagnosis of
-             genetic eye diseases from adaptive optics scanning light
-             ophthalmoscope images},
-  author  = {Toledo-Cort{\'e}s, Santiago and Dubis, Adam M and
-             Gonz{\'a}lez, Fabio A and M{\"u}ller, Henning},
-  journal = {Translational Vision Science \& Technology},
-  volume  = {12},
-  number  = {11},
-  pages   = {25},
-  year    = {2023}
-}
-```
-
----
-
-## Authors
-
-**Nicolay Cortez**
-Engineering Department, Universidad de La Sabana
-
-**Santiago Toledo Cortes** (Thesis Advisor)
-Engineering Department, Universidad de La Sabana
-
----
 
 ## License
 
